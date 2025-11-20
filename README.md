@@ -47,9 +47,12 @@ Key Capabilities
 
 🧠 System Architecture: 
 Hardware Components-
-• Pixhawk Flight Controller (PX4/ArduPilot ecosystem)
-• GPS with Compass (SAM-M8Q + QMC5883L) • 433MHz Telemetry Module for real-time mission tracking 
+• Telemetry 
+• GPS with Compass (SAM-M8Q + QMC5883L) • 433MHz Telemetry Module for real-time mission tracking
 • Brushless DC Motors + ESCs 
+• Pixhawk Flight Controller (PX4/ArduPilot ecosystem) 
+• Brushless DC Motors + ESCs 
+• TXRX (Range - 2.405 to 2.475 GHz)
 • Hexacopter Frame (DJI F450-based 450mm frame) 
 • Robotic Arm for autonomous package drop 
 • LiPo Battery with protection systems
@@ -70,6 +73,7 @@ Software Components-
 • User accepts package → robotic arm releases parcel
 • Drone auto-returns to home
 Note: In case of signal loss, enters Return-to-Launch fail-safe mode
+
 ⸻
 
 🌍 Real-World Relevance: 
