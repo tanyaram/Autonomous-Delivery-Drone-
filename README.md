@@ -5,9 +5,9 @@
  │ ┣ Hardware and Software Components.pdf
  │ ┣ Result.pdf
  │
- ┣ 📁 Source_Code
+ ┣ 📁 Source Code
  │ ┣ delivery_mission.py
- │ ┣ AI/ML Algorithm
+ │ ┣ AI_ML Algorithm
  │
  ┣ 📁 Images
  │
