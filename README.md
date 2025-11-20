@@ -1,15 +1,21 @@
-📦 Autonomous-Delivery-Drone 
+📦 Autonomous-Delivery-Drone-
+ ┣ 📁 CODE_AI
+ │ ┣ AI_ML Algorithm
+ │ ┣ delivery_mission.py
+ │
+ ┣ 📁 Images
+ │ ┣ DRONE SYSTEM BLOCK DIAGRAM.png
+ │ ┣ Drone Prototype.png
+ │ ┣ Mission Planner_Location Setup.png
+ │
  ┣ 📁 Project Documentation
  │ ┣ Project Introduction.pdf
  │ ┣ Project Methodology.pdf
  │ ┣ Hardware and Software Components.pdf
  │ ┣ Result.pdf
  │
- ┣ 📁 CODE_AI
- │ ┣ delivery_mission.py
- │ ┣ AI_ML Algorithm
- │
- ┣ 📁 Images
+ ┣ 📁 Publication
+ │  ┗ Paper Punlication.pdf
  │
  ┣ README.md
  ┣ LICENSE
