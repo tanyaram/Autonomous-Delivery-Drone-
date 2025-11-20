@@ -1,0 +1,17 @@
+🤖 AI/ML Algorithm
+Path Planning Algorithm Used - DIJKSTRA'S ALGORITHM (Used for route planning / shortest path navigation)
+This is one of the most common algorithms taught in engineering projects, especially for:
+ • Waypoint path planning
+ • Finding the shortest, safest route
+ • Navigation from Point A → B
+ • Avoiding obstacles by recalculating path
+
+Dijkstra is widely used in robotics and UAV systems for deterministic and reliable path planning.
+
+⸻
+
+✅ Why Dijkstra Makes Sense for Your Project?
+ • Identify optimal GPS waypoint paths
+ • Reduce flight time and battery consumption
+ • Avoid restricted or unsafe zones
+ • Improve efficiency of autonomous navigation
